@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rivaa</h1>
+<h1 align="center">Hi 👋, I'm Rivaa Javed</h1>
 <h3 align="center">💻 Passionate Developer | 🎨 Designer | 🚀 Learner</h3>
 
 ---
@@ -13,6 +13,7 @@
 
 ### 🌸 Connect with Me
 <p align="left">
+
 <a href="https://www.instagram.com/rivv._.nvm/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
@@ -20,6 +21,11 @@
 <a href="https://www.linkedin.com/in/rivaa-javed-214962386/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:riva62859@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
