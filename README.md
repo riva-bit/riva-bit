@@ -1,50 +1,48 @@
 <h1 align="center">Hi 👋, I'm Rivaa</h1>
-<h3 align="center">💻 BSCS Student | 🌸 Future Developer | 🚀 Learning New Tech</h3>
+<h3 align="center">💻 Passionate Developer | 🎨 Designer | 🚀 Learner</h3>
 
 ---
 
-## 🌷 About Me
-
-✨ Passionate about coding & creativity  
-🌱 Currently learning Web Development  
-💡 Interested in AI, Design & Programming  
-🎯 Goal: Become a Professional Software Engineer  
-📍 Pakistan  
+### 🌷 About Me
+- 🌱 I’m currently learning **Web Development**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 🎯 Goal: Become a **Full Stack Developer**
+- ✨ Love creating aesthetic UI designs
 
 ---
 
-## 🌐 Connect With Me
-
+### 🌸 Connect with Me
 <p align="left">
-
-<a href="https://www.instagram.com/rivv._.nvm/">
-<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/rivv._.nvm/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rivaa-javed-214962386/">
-<img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rivaa-javed-214962386/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 💻 Languages & Tools
-
+### 💻 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,github,vscode" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riva-bit&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riva-bit&layout=compact&theme=tokyonight)
-
----
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riva-bit&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riva-bit&theme=tokyonight" />
 </p>
+
+---
+
+### 🌸 Quote
+> “Code is like art — beautiful when clean & simple.”
