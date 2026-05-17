@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riva-bit&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=riva-bit&show_icons=true&theme=rose_pine" />
 </p>
 
 <p align="center">
